@@ -1,7 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdw14)
-Hi there 👋
 <img src="https://img.shields.io/badge/gitHub-划水的弟中弟-brightgreen" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=asdw14&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdw14)
 
 
 <!--
